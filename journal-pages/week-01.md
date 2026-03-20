@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Week 01
 
 Experiment 1 – Data Drawings
