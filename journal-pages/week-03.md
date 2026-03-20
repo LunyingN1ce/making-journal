@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Week 03 – Live Data
 DES240 Making Journal
 This week I learned how to use the terminal to get data from the internet. I did not use a browser. I used simple commands to request data and see the result in text form.
