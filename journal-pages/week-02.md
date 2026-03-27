@@ -136,7 +136,4 @@ It is fast and easy to use.
 Next, I want to try more interaction.
 I want to add sound.
 I also want to change colors over time.
-</p>
-
-</body>
-</html>
+</p>s
