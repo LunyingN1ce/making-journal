@@ -6,19 +6,72 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Independent Study
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+This week I continued developing my emotional data visualisation project. I began creating the first interactive prototype in p5.js. The main focus this week was building a visual system that shows long-term emotional patterns across different days and time periods.
 
-## Images & Media
+The visualisation organises emotional data into four weeks. Each day is divided into:
 
-*Use the format below to embed images from your assets folder:*
+- Morning
+- Afternoon
+- Night
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+I used coloured circles to represent different emotions. Each colour represents a different emotional state:
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+- Yellow = Happy
+- Blue = Calm
+- Red = Stress
+- Purple = Sad
+- Grey = Tired
 
-## AI Usage Statement
+The goal of the project is to help users better recognise emotional patterns over time. Instead of using numerical charts or complex graphs, I wanted to create a simple and visually clear emotional overview.
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+---
+
+## Prototype Development
+
+This week I started building the first interactive prototype in p5.js. I experimented with grid layouts, colour systems, and emotional categorisation.
+
+The visualisation includes:
+
+- Weekly emotional patterns
+- Mood colour categories
+- Mood filter dropdown
+- Time filter dropdown
+- Emotional legend
+- Design purpose statement
+
+I organised the emotional data using a grid system because it makes repeated emotional patterns easier to compare. Users can quickly notice emotional changes across weekdays and weekends.
+
+I also experimented with spacing, alignment, and visual balance to make the layout feel calm and easy to read.
+
+prototype1
+
+---
+
+## Visual Communication and Interaction
+
+One important part of this week was exploring how emotional information can be communicated visually.
+
+I noticed that colours help people quickly recognise emotional categories without needing much explanation. For example:
+
+- Red immediately communicates stress or pressure
+- Blue feels calm and peaceful
+- Grey suggests tiredness or low energy
+- Yellow feels more positive and energetic
+
+I also explored how interaction can improve emotional awareness. The mood filter and time filter allow users to focus on specific emotional patterns and compare different emotional states across time.
+
+This helped me think more carefully about how interaction design can support reflection and emotional understanding.
+
+---
+
+## Reflection
+
+This week helped me move the project from research and planning into a functional prototype. I learned more about how emotional data can be organised visually through colour, layout, and interaction.
+
+I also learned how to use p5.js to structure repeated visual elements using loops and positioning systems. Building the grid layout helped me better understand visual hierarchy and spacing.
+
+One important thing I realised is that emotional data does not need to appear as traditional statistics to communicate meaningful information. Simple visual structures and colour systems can already show emotional repetition and behavioural patterns.
+
+For the next stage, I want to continue improving the interaction system and experiment with more personalised emotional input features. I also want to explore hover interactions, animations, and longer-term emotional tracking.
