@@ -8,30 +8,70 @@ layout: default
 
 ## Review and Reflect
 
-Over the past four weeks, I most enjoyed experimenting with visual and interactive ways of showing data. I became interested in how emotions and feelings can be represented through images, colours, and visual organisation instead of only using text. Through the previous experiments, including drawing, interactivity, live data, and AI, I learned that visual communication can make personal experiences easier to understand and more engaging for viewers.
+Over the past four weeks, I most enjoyed experimenting with visual and interactive ways of showing data. I became interested in how emotions and feelings can be represented through colours, patterns, interaction, and visual organisation instead of only using text.
 
-I was especially interested in projects that connected personal emotions with visual responses. During class discussions and feedback sessions, I realised that emotional data can become more meaningful when audiences can see patterns and connections between feelings, colours, and images.
+Through the previous experiments, including data drawing, interactivity, live data, and AI, I learned that visual communication can make personal experiences easier to understand and more engaging for viewers. I also realised that data does not always need to be large-scale or public. Personal data can also become meaningful when it is organised and visualised clearly.
 
-Going forward, I want to focus on emotional data visualisation. My goal is to create a project that helps people recognise and understand emotions more clearly through visual categorisation. I hope this project can make emotional experiences easier to communicate and reflect on.
+I was especially interested in projects that connect personal emotions with visual systems. During class discussions and feedback sessions, I realised that emotional data can become more useful when people can see patterns across time. For example, stress may appear more often before deadlines, while calm or happy emotions may appear more often during weekends.
+
+Going forward, I want to focus on emotional data visualisation. My goal is to create a project that helps people recognise and understand their emotional patterns through colour, time, and interaction. I hope this project can support emotional awareness and help users reflect on their daily emotional experiences.
 
 ---
 
 ## Thematic Focus and Data Source(s)
 
-My thematic focus is emotional data. I want to explore how emotions can be grouped and visualised using colours and photographs. Different emotions may be connected with different visual styles, tones, or image categories. For example, calm emotions may use soft colours and peaceful images, while stress or sadness may use darker tones and more isolated environments.
+My thematic focus is emotional data. I want to explore how emotions change across different days and different time periods. Instead of only showing emotions as words, I want to translate them into a visual system that is easier to read and compare.
 
-The project will mainly collect emotional responses from participants. People may select emotions that match their feelings, and these emotions will then be organised visually through colour systems and image collections. The goal is to create a clearer visual connection between emotions and everyday experiences.
+The project will collect emotional records across multiple weeks. Each emotional record may include:
 
-I also want to research how colours influence emotional understanding. By combining emotional labels, colours, and photographic imagery, I hope the audience can recognise emotional patterns more easily and reflect on their own emotional state.
+- Emotion type
+- Date
+- Time of day
+- Emotional intensity
+- Possible reason or trigger
+
+The emotional categories may include:
+
+- Happy
+- Calm
+- Stress
+- Sad
+- Tired
+
+The time of day may be divided into:
+
+- Morning
+- Afternoon
+- Night
+
+By organising emotional data over time, I hope users can recognise repeated emotional patterns. For example, a user may notice that they often feel tired in the morning, stressed at night, or happier during weekends.
+
+At this stage, the data may be based on self-recorded emotional information. This allows the project to focus on personal experience and emotional reflection. The data does not need to be objective in the same way as scientific data. Instead, it records how a person feels across time and turns those feelings into visual information.
 
 ---
 
 ## Visualisation & Impact
 
-I plan to create a visual system that organises emotions into categories using colours and photographs. Different emotional states will be represented by different colour palettes and image styles. For example, positive emotions may appear brighter and warmer, while negative emotions may appear darker or more muted.
+I plan to create an interactive emotional data visualisation using p5.js. The visualisation will show emotional records across several weeks. Each day will be divided into morning, afternoon, and night. Different emotions will be represented through different colours.
 
-The visual outcome may include grids of images, emotional colour maps, or grouped photo collections that help viewers compare emotional experiences. I also want viewers to interact with the project by selecting emotions and viewing matching visual responses.
+For example:
 
-The goal of this project is to make emotions easier to understand visually. Emotional experiences are often difficult to explain with words alone. Through colour and photographic categorisation, viewers may become more aware of emotional patterns and better understand their own feelings.
+- Happy may be represented by yellow
+- Calm may be represented by blue
+- Stress may be represented by red
+- Sad may be represented by purple
+- Tired may be represented by grey
 
-I also hope this project can encourage emotional awareness and support conversations about mental wellbeing. By turning emotions into visual experiences, the project may help people communicate emotions in a clearer and more accessible way.
+The visual outcome may use a grid structure. The grid can show weeks, days, and time periods clearly. Coloured circles may be used to represent emotional records. The size of the circle may show emotional intensity.
+
+![alt text](../assets/week-05/Screenshot%202026-05-29%20at%204.31.22 PM.png)
+
+The project may also include interactive filters. Users may be able to filter the visualisation by emotion type or time period. This can help users focus on specific emotional patterns, such as stress during weekdays or calm emotions in the morning.
+
+The goal of this project is not only to display emotions, but also to help users reflect on their emotional habits. Emotional experiences are often difficult to explain with words alone. By turning emotions into visual patterns, users may better understand when certain emotions appear and how their daily routine affects their mood.
+
+This project may be useful for students or people who want to understand their emotional wellbeing. For example, if a student notices repeated stress before assignment deadlines, they may be able to plan their workload earlier or take breaks before stress becomes stronger.
+
+I hope this project can encourage emotional awareness and support conversations about mental wellbeing. By making emotions visible through data, the project may help people understand their feelings in a clearer and more accessible way.
+
+---
