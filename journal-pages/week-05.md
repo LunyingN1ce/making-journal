@@ -64,7 +64,7 @@ For example:
 
 The visual outcome may use a grid structure. The grid can show weeks, days, and time periods clearly. Coloured circles may be used to represent emotional records. The size of the circle may show emotional intensity.
 
-![alt text](../assets/week-05/Screenshot%202026-05-29%20at%204.31.22 PM.png)
+![alt text](../assets/week-05/Screenshot%202026-05-29%20at%204.41.54 PM.png)
 
 The project may also include interactive filters. Users may be able to filter the visualisation by emotion type or time period. This can help users focus on specific emotional patterns, such as stress during weekdays or calm emotions in the morning.
 
