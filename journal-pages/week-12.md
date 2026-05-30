@@ -39,7 +39,7 @@ The final prototype can be explored through the interactive p5.js sketch below.
 <iframe
   src="https://editor.p5js.org/lyin032/embed/QuMlb1ESj"
   width="100%"
-  height="1200"
+  height="600"
   style="border:1px solid #ccc;">
 </iframe>
 
