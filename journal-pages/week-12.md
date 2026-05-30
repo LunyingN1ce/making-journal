@@ -43,6 +43,9 @@ The final prototype can be explored through the interactive p5.js sketch below.
   style="border:1px solid #ccc;">
 </iframe>
 
+View the live prototype here:
+https://editor.p5js.org/lyin032/full/QuMlb1ESj
+
 ---
 
 ## Reflection
