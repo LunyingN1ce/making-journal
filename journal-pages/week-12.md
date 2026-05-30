@@ -8,17 +8,17 @@ layout: default
 
 ## Project Statement
 
-**Emotion Awareness Tool** is an interactive emotional data visualisation created using p5.js. The project explores how personal emotional data can be recorded, organised, and visualised to help users better understand their emotional patterns over time.
+**Emotion Awareness Tool** is an interactive emotional data visualisation developed using p5.js. The project explores how personal emotional data can be collected, organised, and visualised to help users better understand their emotional patterns and behaviours over time.
 
-The tool allows users to record emotions across different dates and time periods, including morning, afternoon, and night. Each emotional record includes a primary emotion, secondary emotion, intensity level, trigger, timestamp, and reflection note. These records are shown through a calendar-based visual interface, where colours represent different emotions and layout helps users compare emotional changes across days and weeks.
+The tool enables users to record emotions across different dates and time periods, including morning, afternoon, and night. Each emotional entry contains a primary emotion, secondary emotion, intensity level, trigger, timestamp, and personal reflection note. These records are displayed through a calendar-based visual interface, where colour is used to represent different emotional states and the layout supports comparison across days and weeks.
 
-The project originally began with the idea of helping people solve emotional problems more quickly. However, through feedback from tutors and classmates, I realised that a data visualisation tool cannot directly solve emotional issues. Instead, its stronger role is to support emotional awareness. This changed the direction of the project from emotional problem-solving to emotional understanding.
+The project originally began with the goal of helping people solve emotional problems more quickly. However, feedback from tutors and classmates highlighted that a data visualisation tool is not designed to provide emotional solutions or treatment. Instead, its greatest value lies in helping users become more aware of their emotional experiences. This insight led to a shift in the project’s direction, from emotional problem-solving towards emotional awareness and reflection.
 
-The final prototype focuses on helping users recognise when certain emotions appear, what triggers may influence them, and how emotions change over time. Features such as selected record details, awareness insights, daily emotional references, keyword analysis, and recent emotional trend analysis help users reflect on their own emotional habits more clearly.
+The final prototype focuses on helping users recognise when particular emotions occur, identify possible triggers, and observe how emotions change over time. Features such as selected record details, awareness insights, emotional references, keyword analysis, and recent emotional trend analysis support users in reflecting on their habits, routines, and emotional responses.
 
-For example, the system may show whether a user is experiencing an emotional rise, decline, or stable period. It can also connect emotional changes with possible triggers such as assignment deadlines, study, work, family, friends, exercise, or gaming.
+For example, the system can indicate whether a user is currently experiencing an emotional rise, decline, or stable period. It can also suggest possible influences behind these patterns by connecting emotional records with common triggers such as assignment deadlines, study, work, family, friends, exercise, or gaming.
 
-The purpose of this project is not to give direct emotional advice or treatment. Instead, it makes emotional experiences more visible and understandable through personal data. By turning everyday emotions into visual patterns, the project encourages self-reflection and supports a deeper awareness of personal wellbeing.
+Rather than providing direct advice, the purpose of the project is to make emotional experiences more visible and understandable through personal data. By transforming everyday emotional records into meaningful visual patterns, the tool encourages self-reflection and promotes a deeper awareness of personal wellbeing.
 
 ---
 
